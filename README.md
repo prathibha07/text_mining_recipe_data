@@ -3,7 +3,7 @@
 Scraping at least 100 recipes from the web,provide their ingredient lists and cleaned the ingredient data for the further result calculation.
 > Reference Webpage used https://rainbowplantlife.com/
 
-Three main tasks performed: 
+Three main tasks: 
 * Scraping data: scraped at least 100 recipes from the website
 * Cleaning data: cleaned ingredient data for further calculation. This includes, but is not limited to, removing excess white spaces, correcting for a few edge cases, and correcting any remaining formatting issues
 * Calculating result: captured the 10 most common ingredients used in these recipes
