@@ -11,9 +11,9 @@ Three main tasks performed:
 1. rawData.csv -> csv file generated which caputured the data got from webscrapping
   Data for the rawData and cleanData files is formatted with three columns: url, name, ingredient.
   Each ingredient is listed on a separate line.
-   * url: contains the link where the recipe can be found
-   * name: the name of the recipe
-   * ingredient: the name of the ingredient
+  * url: contains the link where the recipe can be found
+  * name: the name of the recipe
+  * ingredient: the name of the ingredient
     
 2. cleanData.csv -> csv file generated after some basic cleaning steps
 
