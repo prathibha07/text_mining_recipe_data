@@ -4,9 +4,9 @@ Scraping at least 100 recipes from the web,provide their ingredient lists and cl
 Used -- https://rainbowplantlife.com/ as reference webpage
 
 Three main tasks performed: 
-● scraping data: scraped at least 100 recipes from the website
-● cleaning data: cleaned ingredient data for further calculation. This includes, but is not limited to, removing excess white spaces, correcting for a few edge cases, and correcting any remaining formatting issues
-● calculating: what are the 10 most common ingredients used in these recipes
+ \t scraping data: scraped at least 100 recipes from the website
+\t cleaning data: cleaned ingredient data for further calculation. This includes, but is not limited to, removing excess white spaces, correcting for a few edge cases, and correcting any remaining formatting issues
+\t calculating: what are the 10 most common ingredients used in these recipes
 
 1. rawData.csv -> data captured from webscrapping
   Data for the rawData and cleanData files should be formatted with three columns: url, name, ingredient.
