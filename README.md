@@ -1,4 +1,4 @@
-# text_mining_recipe_data
+# text_mining_vegan_recipe_data
 
 Scraping at least 100 recipes from the web,provide their ingredient lists and cleaned the ingredient data for the further result calculation.
 > Reference Webpage used https://rainbowplantlife.com/
